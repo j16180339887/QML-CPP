@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/Font">
+        <file>Resourse/Font/UbuntuWqy.ttf</file>
+    </qresource>
+    <qresource prefix="/Qml">
+        <file>FrontEnd/main.qml</file>
+        <file>FrontEnd/DriveProcessbar.qml</file>
+    </qresource>
+    <qresource prefix="/Image">
+        <file>Resourse/Images/icon.png</file>
+        <file>Resourse/Images/max.png</file>
+        <file>Resourse/Images/min.png</file>
+        <file>Resourse/Images/normal.png</file>
+        <file>Resourse/Images/quit.png</file>
+        <file>Resourse/Images/setting.png</file>
+    </qresource>
+</RCC>
